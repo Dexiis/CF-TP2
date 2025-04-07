@@ -1,0 +1,20 @@
+TP2:
+
+a)
+	V - 7 bits
+	R - 5 bits
+	A - 7 bits
+	PC - 6 bits
+	Cy - 1 bit
+	Z - 1 bit
+
+b)
+	Memória de Código -  
+			AB: 4 bits
+			DB: 11 bits
+	Memória de Dados -	
+			AB: 
+			DB: 7 bits
+			
+c)
+	
