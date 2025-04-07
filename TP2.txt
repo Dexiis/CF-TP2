@@ -10,11 +10,11 @@ a)
 
 b)
 	Memória de Código -  
-			AB: 4 bits
-			DB: 11 bits
+			AB: 6 bits (Valor máximo para o registo PC)
+			DB: 10 bits (Bits de codificação de instrução)
 	Memória de Dados -	
-			AB: 
-			DB: 7 bits
+			AB: 5 bits (Registo R, que endereça a memória recebe const5)
+			DB: 7 bits (Maior número de bits possíveis para um registo)
 			
 c)
 	
