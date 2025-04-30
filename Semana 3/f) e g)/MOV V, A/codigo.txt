@@ -1,0 +1,4 @@
+MOV V, 4
+MOV A, V
+MOV V, 0
+MOV V, A

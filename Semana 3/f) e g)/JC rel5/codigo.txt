@@ -1,0 +1,5 @@
+MOV V, 4
+MOV A, V
+MOV V, 2
+SUB V, A
+JC -4

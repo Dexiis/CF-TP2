@@ -1,0 +1,2 @@
+MOV V, 4
+NOT V
